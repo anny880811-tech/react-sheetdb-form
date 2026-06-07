@@ -1,0 +1,22 @@
+body {
+  background-color: rgb(227, 222, 188);
+}
+
+.form-container {
+  .title {
+    text-align: center;
+    text-shadow: 1px 0 2px rgba(156, 148, 100, 0.8);
+    font-weight: 1000;
+    color: rgb(151, 143, 91);
+  }
+
+  .form-custom {
+    margin: 0 auto;
+    width: 500px;
+    height: 600px;
+    border-radius: 20px;
+    box-shadow: 2px 4px 8px rgba(151, 143, 91, 0.2);
+    background-color: rgb(238, 238, 221);
+    padding: 3rem 3rem 3rem 3rem;
+  }
+}
